@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Hello Article",
+    "fullText": "This is the content of article 1"
+  },
+  {
+    "id": 2,
+    "title": "React Tips",
+    "fullText": "Learn how to build SPAs using React"
+  },
+  {
+    "id": 3,
+    "title": "Smart Campus",
+    "fullText": "Smart campus is coming to IVE"
+  }
+]
