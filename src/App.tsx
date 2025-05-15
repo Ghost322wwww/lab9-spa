@@ -44,14 +44,12 @@ const Home = () => (
 function App() {
   return (
     <div style={{ padding: 20 }}>
-      {/* 導覽列 */}
       <nav style={{ marginBottom: 20 }}>
         <Link to="/" style={{ marginRight: 10 }}>Home</Link>
         <Link to="/login" style={{ marginRight: 10 }}>Login</Link>
         <Link to="/register">Register</Link>
       </nav>
 
-      {/* 路由內容 */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
