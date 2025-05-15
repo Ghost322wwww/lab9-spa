@@ -2,19 +2,19 @@
   {
     "id": 1,
     "title": "Pokemon 1",
-    "fullText": "This is the content of article 1",
+    "fullText": "This is the Pokemon 1",
     "img": "/img/1.png"
   },
   {
     "id": 2,
     "title": "Pokemon 2",
-    "fullText": "Learn how to build SPAs using React",
+    "fullText": "This is the Pokemon 2",
     "img": "/img/2.png"
   },
   {
     "id": 3,
     "title": "Pokemon 3",
-    "fullText": "Smart campus is coming to IVE",
+    "fullText": "This is the Pokemon 3",
     "img": "/img/3.png"
   }
 ]
